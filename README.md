@@ -1,4 +1,4 @@
-# Mercado Livre (demo GitPages)
+## Mercado Livre (demo GitPages)
 
 Esta é a demo do GitPages do projeto de criar uma réplica do famoso e-commerce Mercado Livre.
 
